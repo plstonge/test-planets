@@ -1,2 +1,2 @@
 # test-planets
-Test repos
+Test repository
